@@ -12,7 +12,7 @@ using TeamManagerServer.Data;
 namespace TeamManagerServer.Migrations
 {
     [DbContext(typeof(DataContext))]
-    [Migration("20231122052743_Initial")]
+    [Migration("20231128032417_Initial")]
     partial class Initial
     {
         /// <inheritdoc />

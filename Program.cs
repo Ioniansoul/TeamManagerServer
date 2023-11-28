@@ -4,7 +4,6 @@ global using Microsoft.AspNetCore.Mvc;
 
 global using TeamManagerServer.Data;
 global using TeamManagerServer.Models;
-global using TeamManagerServer.Exceptions;
 
 global using TeamManagerServer.Dtos.Player;
 global using TeamManagerServer.Dtos.Game;
